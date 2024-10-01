@@ -1,6 +1,7 @@
 
 /*
  -- struct {}
+ -- impl {}
  -- var./val. as d_type
  -- variables & immitability
  -- multiline comments
@@ -54,6 +55,7 @@ fn main() {
     println!("\nValue of v1 out of the block = {}", v1);
 
 }
+//__STRUCTURES______________________________________________
 
 struct BankAcc {
     owner : String,
