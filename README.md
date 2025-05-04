@@ -1,2 +1,2 @@
-# rust_day1
+# rust_day
 Started learning rust 
